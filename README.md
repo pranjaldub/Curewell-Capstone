@@ -10,3 +10,6 @@ A Test project with basic implementation of full stack development using:
    HTML
    CSS
    Bootstrap
+   
+   
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjaldub)](https://github.com/anuragha
