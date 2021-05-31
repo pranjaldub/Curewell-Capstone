@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CureWellApp",
+    "\\CureWellApp\\src",
+    "\\CureWellApp\\src\\app",
+    "\\CureWellApp\\src\\app\\curewell-components",
+    "\\CureWellApp\\src\\app\\curewell-components\\view-doctor",
+    "\\CureWellApp\\src\\app\\curewell-components\\view-specialization",
+    "\\CureWellApp\\src\\app\\curewell-services",
+    "\\CureWellServices",
+    "\\CureWellServices\\Controllers"
+  ],
+  "SelectedNode": "\\CureWellServices\\Controllers\\CureWellController.cs",
+  "PreviewInSolutionExplorer": false
+}

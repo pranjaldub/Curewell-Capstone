@@ -1,0 +1,148 @@
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.deps.json
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.json
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.dev.json
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.dll
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csprojAssemblyReference.cache
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CoreCompileInputs.cache
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cache
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cs
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfoInputs.cache
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfo.cs
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorTargetAssemblyInfo.cache
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.pdb
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.dll
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.pdb
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CopyComplete
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.deps.json
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.json
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.dev.json
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.dll
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.pdb
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csprojAssemblyReference.cache
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CoreCompileInputs.cache
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cache
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cs
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfoInputs.cache
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfo.cs
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorTargetAssemblyInfo.cache
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CopyComplete
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.dll
+C:\Users\harshit.golechha\Desktop\neha_di_QP\CureWell\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.pdb
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.deps.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.dev.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.dll
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.pdb
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csprojAssemblyReference.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CoreCompileInputs.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cs
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfoInputs.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfo.cs
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorTargetAssemblyInfo.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CopyComplete
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.dll
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\FA3\Mock\CureWell\CureWell\To_Educator\To_Educator\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.pdb
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.deps.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.dev.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.dll
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.pdb
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csprojAssemblyReference.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CoreCompileInputs.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cs
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfoInputs.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfo.cs
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorTargetAssemblyInfo.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CopyComplete
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.dll
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.pdb
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.deps.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.dev.json
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.dll
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.pdb
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csprojAssemblyReference.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CoreCompileInputs.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cs
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfoInputs.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfo.cs
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorTargetAssemblyInfo.cache
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CopyComplete
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.dll
+D:\Nehaa\Assessment\QB_Workshop_2\To_Review\HON\Mock\T\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.pdb
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.deps.json
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.json
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.dev.json
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.dll
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.pdb
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csprojAssemblyReference.cache
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CoreCompileInputs.cache
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cache
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cs
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfoInputs.cache
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfo.cs
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorTargetAssemblyInfo.cache
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CopyComplete
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.dll
+C:\Users\harshit.golechha\Desktop\angular\New folder\To_Trainees\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.pdb
+C:\Users\alaks\Desktop\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\alaks\Desktop\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\alaks\Desktop\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.deps.json
+C:\Users\alaks\Desktop\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.json
+C:\Users\alaks\Desktop\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.dev.json
+C:\Users\alaks\Desktop\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.dll
+C:\Users\alaks\Desktop\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.pdb
+C:\Users\alaks\Desktop\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\alaks\Desktop\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csprojAssemblyReference.cache
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfoInputs.cache
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfo.cs
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CoreCompileInputs.cache
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cache
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cs
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorTargetAssemblyInfo.cache
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CopyComplete
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.dll
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.pdb
+C:\Users\alaks\Desktop\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.genruntimeconfig.cache
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.deps.json
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.json
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.runtimeconfig.dev.json
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.dll
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellServices.pdb
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csprojAssemblyReference.cache
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfoInputs.cache
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.AssemblyInfo.cs
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CoreCompileInputs.cache
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cache
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorAssemblyInfo.cs
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.RazorTargetAssemblyInfo.cache
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.csproj.CopyComplete
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.dll
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.pdb
+C:\Users\alaks\Desktop\Projects\CureWell\CureWellServices\obj\Debug\netcoreapp2.1\CureWellServices.genruntimeconfig.cache

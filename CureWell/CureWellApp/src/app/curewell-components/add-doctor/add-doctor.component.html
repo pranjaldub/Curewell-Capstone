@@ -1,0 +1,31 @@
+<div class="row title">
+  <h2 align="center">Add a new Doctor</h2>
+</div>
+<!--Add angular form logic here-->
+<form align="center" #addDoctorForm="ngForm" (ngSubmit) ="addDoctor(doctorNameRef.value)">
+  <table align="center">
+    <tr>
+      <th align="justify"> <label>Doctor Name</label> </th>
+      <th>
+        <!--Add angular form logic here-->
+        <input type="text" class="form-control cwinput" name="doctorName" #doctorNameRef="ngModel" ngModel required>
+        <!--Add your validation logic here-->
+        <div *ngIf="doctorNameRef.errors && (doctorNameRef.dirty || doctorNameRef.touched)" style="text-align:left; padding-top:5px; color:red;">
+          <div [hidden]="!doctorNameRef.errors.required">
+            <p>&nbsp;name is mandatory</p>
+          </div>
+          </div>
+      </th>
+    </tr>
+    <tr>
+      <th></th>
+      <th align="justify">
+        <button class="btn" type="submit"  [disabled]="ToggleButton">Add Doctor</button>&nbsp;&nbsp;
+        <a routerLink="/class" routerLinkActive="active">Cancel</a>
+      </th>
+
+  </table>
+  <div *ngIf="showDiv" style="color:red;text-align:center;">
+    {{msg}}
+  </div>
+</form>

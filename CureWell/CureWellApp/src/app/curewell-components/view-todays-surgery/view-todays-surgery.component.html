@@ -1,0 +1,39 @@
+<h2 align="center">
+  View Today's Surgery
+</h2>
+<div *ngIf="(surgeryList?.length > 0)">
+  <div class="table-responsive">
+
+    <table align="center" class="table" style="border:2px solid rgba(220,230,242,1);">
+      <tr style="background-color:rgba(220,230,242,1); font-size:12pt">
+        <th>Surgery Id</th>
+        <th>Doctor Id</th>
+        <th>Surgery Date</th>
+        <th>End Time</th>
+        <th>Start Time</th>
+        <th>Surgery Category</th>
+        <th style="text-align:center" colspan="1">Action</th>
+      </tr>
+
+      <tr *ngFor="let item of surgeryList" style="background-color:white">
+
+        <td align="center">{{item.surgeryId}}</td>
+        <td align="center">{{item.doctorId}}</td>
+        <td align="center">{{item.surgeryDate | date:"dd/MM/yyyy" }}</td>
+        <td align="center">{{item.endTime}}</td>
+        <td align="center">{{item.startTime}}</td>
+        <td align="center">{{item.surgeryCategory}}</td>
+        <td>
+          <!--Add angular form logic here-->
+          <button class="btn"  (click)="editSurgery(item)">Edit Surgery Time</button>
+        </td>
+      </tr>
+    </table>
+    
+  </div>
+</div>
+<div *ngIf="!(surgeryList?.length > 0)">
+  <br />
+  <h3 class="jumbotron" style="text-align:center;">No Surgery Details Available</h3>
+</div>
+

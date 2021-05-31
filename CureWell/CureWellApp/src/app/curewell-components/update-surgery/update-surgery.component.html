@@ -1,0 +1,92 @@
+<div class="myContent">
+  <div class="container">
+    
+    <h2 align="justify" style="color:brown">Update Surgery</h2>
+    <!--Add angular form logic here-->
+    <form #updateSurgeryForm ="ngForm" (ngSubmit) ="editSurgery(startTimeRef.value,endTimeRef.value)">
+      <div class="row">
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+          <div class="form-group">
+            <div class="col" style="text-align:left">
+              <label>Surgery Id</label>
+            </div>
+            <div class="col; input-group">
+              <!--Add angular form logic here-->
+              <input type="text" name="surgeryId" [ngModel] ="surgeryId" class="form-control qkinput" #surgeryIdRef="ngModel" ngModel readonly>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col" style="text-align:left">
+              <label>Doctor Id</label>
+            </div>
+            <div class="col; input-group">
+              <!--Add angular form logic here-->
+              <input type="text" name="doctorId" [ngModel]="doctorId" class="form-control qkinput" #doctorIdRef="ngModel" ngModel readonly>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <div class="col" style="text-align:left">
+              <label>Surgery Date</label>
+            </div>
+            <div class="col; input-group">
+              <!--Add angular form logic here-->
+              <input type="text" name="surgeryDate" [ngModel]="surgeryDate" class="form-control qkinput" #surgeryDateRef ="ngModel" ngModel readonly>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <div class="col" style="text-align:left">
+              <label>Start Time(24 Hours Format)</label>
+            </div>
+            <div class="col; input-group">
+              <!--Add angular form logic here-->
+              <input type="text" name="starttime" class="form-control qkinput"  #startTimeRef="ngModel" ngModel required>
+              <div *ngIf="startTimeRef.errors && (startTimeRef.dirty || startTimeRef.touched)" style="text-align:left; padding-top:5px; color:red;">
+                <div [hidden]="startTimeRef.errors.required">
+                  <p>starttime is mandatory</p>
+                </div>
+              </div>
+              <!--Add angular validation logic here-->
+            </div>
+          </div>
+
+          <div class="form-group">
+            <div class="col" style="text-align:left">
+              <label>End Time(24 Hours Format)</label>
+            </div>
+            <div class="col; input-group">
+              <!--Add angular form logic here-->
+              <input type="text" name="endtime" class="form-control qkinput"  #endTimeRef="ngModel" ngModel required>
+              <!--Add angular validation logic here-->
+              <div *ngIf="endTimeRef.errors && (endTimeRef.dirty || endTimeRef.touched)" style="text-align:left; padding-top:5px; color:red;">
+                <div [hidden]="endTimeRef.errors.required">
+                  <p>starttime is mandatory</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <div class="col" style="text-align:left">
+              <label>Surgery Category</label>
+            </div>
+            <div class="col; input-group">
+              <!--Add angular form logic here-->
+              <input type="text" name="surgeryCategory" [ngModel]="surgeryCategory" class="form-control qkinput" #surgeryCategoryRef ="ngModel" ngModel readonly>
+            </div>
+          </div>
+
+          <div class="form-group" style="text-align:left">
+            <button type="submit" [disabled]="!updateSurgeryForm.form.valid" class="btn">Update</button> &nbsp;&nbsp;
+            <a routerLink="/viewTodaySurgery">Cancel</a>
+          </div>
+        </div>
+        <div class="col-md-4">
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
