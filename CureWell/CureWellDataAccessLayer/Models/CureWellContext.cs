@@ -20,7 +20,7 @@ namespace CureWellDataAccessLayer.Models
         public virtual DbSet<Doctor> Doctor { get; set; }
         public virtual DbSet<DoctorSpecialization> DoctorSpecialization { get; set; }
         public virtual DbSet<Specialization> Specialization { get; set; }
-        public virtual DbSet<Surgery> Surgery { get; set; }
+        public virtual DbSet<Surgery> Surgery { get; set; } //surgery
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -32,7 +32,7 @@ namespace CureWellDataAccessLayer.Models
 
             if (!optionsBuilder.IsConfigured)
             {
-//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+                //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
                 optionsBuilder.UseSqlServer(connectionString);
             }
         }
